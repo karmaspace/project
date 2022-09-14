@@ -1,0 +1,2 @@
+# project
+about minor projects
